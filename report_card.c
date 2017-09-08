@@ -2,6 +2,8 @@
 
 int main()
 {	
+
+	printf("3th commit");
 <<<<<<< HEAD
 	printf("Hello");
 	
