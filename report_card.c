@@ -4,6 +4,6 @@ int main()
 {	
 
 	printf("test");
-	printf("yang");
+	printf("Seo YoungEun");
 	return 0;
 }
