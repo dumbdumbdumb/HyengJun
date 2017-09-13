@@ -13,7 +13,6 @@ int main()
 	printf("hyeung");
 	printf("yang");
 	printf("test");
-	printf("Seo YoungEun");
 	printf("Let's go");
 	return 0;
 }
